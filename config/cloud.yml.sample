@@ -1,0 +1,10 @@
+---
+seed_ami: ami-2cc83145
+access_key_id: "your_access_key_id"
+secret_access_key: "your_access_key"
+flavor_id: 'c1.medium'
+security_group: 'dan'
+key_name: 'dan'
+private_key_path: '/Users/dan/.ssh/id_ec2'
+cluster_ami: 'ami-63d6180a'
+cluster_size: 5
